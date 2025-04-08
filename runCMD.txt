@@ -1,0 +1,12 @@
+Backend: Node.js + Express + MongoDB (Mongoose)
+
+npm init -y
+npm install express mongoose cors body-parser
+
+
+
+Frontend: React
+
+npx create-react-app todo-client
+cd todo-client
+npm install axios
